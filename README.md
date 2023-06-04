@@ -1,1 +1,1 @@
-# -issue-resolution
+# issue-resolution
